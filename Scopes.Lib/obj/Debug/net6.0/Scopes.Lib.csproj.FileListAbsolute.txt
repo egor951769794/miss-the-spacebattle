@@ -1,0 +1,12 @@
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\Scopes.Lib\bin\Debug\net6.0\Scopes.Lib.deps.json
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\Scopes.Lib\bin\Debug\net6.0\Scopes.Lib.dll
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\Scopes.Lib\bin\Debug\net6.0\Scopes.Lib.pdb
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\Scopes.Lib\obj\Debug\net6.0\Scopes.Lib.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\Scopes.Lib\obj\Debug\net6.0\Scopes.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\Scopes.Lib\obj\Debug\net6.0\Scopes.Lib.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\Scopes.Lib\obj\Debug\net6.0\Scopes.Lib.AssemblyInfo.cs
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\Scopes.Lib\obj\Debug\net6.0\Scopes.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\Scopes.Lib\obj\Debug\net6.0\Scopes.Lib.dll
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\Scopes.Lib\obj\Debug\net6.0\refint\Scopes.Lib.dll
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\Scopes.Lib\obj\Debug\net6.0\Scopes.Lib.pdb
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\Scopes.Lib\obj\Debug\net6.0\ref\Scopes.Lib.dll

@@ -1,0 +1,12 @@
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\IoC.lib\bin\Debug\net6.0\IoC.lib.deps.json
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\IoC.lib\bin\Debug\net6.0\IoC.lib.dll
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\IoC.lib\bin\Debug\net6.0\IoC.lib.pdb
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\IoC.lib\obj\Debug\net6.0\IoC.lib.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\IoC.lib\obj\Debug\net6.0\IoC.lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\IoC.lib\obj\Debug\net6.0\IoC.lib.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\IoC.lib\obj\Debug\net6.0\IoC.lib.AssemblyInfo.cs
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\IoC.lib\obj\Debug\net6.0\IoC.lib.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\IoC.lib\obj\Debug\net6.0\IoC.lib.dll
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\IoC.lib\obj\Debug\net6.0\refint\IoC.lib.dll
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\IoC.lib\obj\Debug\net6.0\IoC.lib.pdb
+C:\Users\Егор\Desktop\programming\C#\miss_the_spacebattle\IoC.lib\obj\Debug\net6.0\ref\IoC.lib.dll
